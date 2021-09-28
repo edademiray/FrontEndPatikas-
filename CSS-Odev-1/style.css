@@ -1,0 +1,100 @@
+.ust h1{
+    color: #FFB085;
+    text-align: center;
+}
+.nav{
+    float: none;
+}
+.nav ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #90AACB;
+}
+.nav li{
+    float:left;
+}
+.nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.icerik{
+    display: block;
+    text-align: center;
+    align-content: center;
+    list-style-position: inside;
+}
+.icerik h3{
+    color: white;
+    text-align: center;
+    background: #F9D5A7;
+}
+
+
+.hak{
+    color:black;
+    font-weight:lighter;
+    font-size: 20px;
+    text-align: center;
+}
+.icerik img{
+    align-tracks: center;
+}
+.liste li{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+.pastel h2{
+    color: white;
+    background-color:#C6D57E;
+}
+.koyu h2{
+    background-color: #3B185F;
+    color: white;
+}
+.neon h2{
+    background-color: #FFF338;
+    color: white;
+}
+.retro h2{
+    background-color: #A0937D ;
+    color: white;
+
+}
+.sicak h2{
+    background-color: #A2416B;
+    color: white;
+}
+.footer{
+    float: none;
+}
+.footer ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DE6B35;
+}
+.footer li{
+    float:left;
+}
+.footer li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+}
+.footer p{
+    display: block;
+    color: white;
+    background-color: #DE6B35;
+}
